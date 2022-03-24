@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cryptocurrency Challenge</string>
+
+    <string name="exchange_id_title">Exchange ID</string>
+    <string name="rank_title">Rank</string>
+    <string name="price_title">Price</string>
+    <string name="date_title">Date</string>
+    <string name="shared_error_no_connection">Check your internet connection and retry</string>
+    <string name="no_internet_connection">You have no internet connection. Data will be fetched locally</string>
+    <string name="market_details">Market Details not found for this coin</string>
+</resources>
